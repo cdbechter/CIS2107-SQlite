@@ -1,0 +1,31 @@
+All permissions after todays date. 
+
+tuID | Role | Resouce ID | Resource Name | Expiration Date |
+
+912086676 | employee | 1 | tumail | 99999999 | 
+912086676 | employee | 2 | canvas | 99999999 | 
+912086676 | employee | 3 | ldap | 99999999 | 
+123456789 | ce | 1 | tumail | 20190422 | 
+123456789 | ce | 2 | canvas | 20190422 | 
+123456789 | ce | 3 | ldap | 20190422 | 
+123456789 | student | 1 | tumail | 20200601 | 
+123456789 | student | 2 | canvas | 20200601 | 
+123456789 | student | 3 | ldap | 20200601 | 
+A88888888 | applicant | 3 | ldap | 20191130 | 
+A88888888 | student | 1 | tumail | 20191130 | 
+A88888888 | student | 2 | canvas | 20191130 | 
+A88888888 | student | 3 | ldap | 20191130 | 
+
+
+
+tuID | Resouce ID
+
+123456789 | 1 | tumail | 
+123456789 | 2 | canvas | 
+123456789 | 3 | ldap | 
+912086676 | 1 | tumail | 
+912086676 | 2 | canvas | 
+912086676 | 3 | ldap | 
+A88888888 | 1 | tumail | 
+A88888888 | 2 | canvas | 
+A88888888 | 3 | ldap | 
